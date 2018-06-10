@@ -52,7 +52,7 @@ if ( isset( $_GET['language'] ) ) {
       include( $_GET['language'] . '.php' );
 }
 </pre>
-			<?php print_r($_GET['page']); ?>
+			<!-- INSERT CODE HERE -->
 			</div>
 		</div>
 		<div class="wrapper row4">
